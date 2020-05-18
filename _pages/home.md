@@ -5,7 +5,7 @@ header:
   overlay_color_off: "#5e616c"
   overlay_image: /assets/images/homepage/Horizontal-mw-banner.jpg
   caption:
-excerpt: 'Join us as we photograph the stars<br/>'
+excerpt: 'Join us as we photograph the night sky<br/>'
 
 feature_row:
   - image_path: /assets/images/homepage/horizontal-mw-teaser.jpg
