@@ -12,6 +12,8 @@ gallery:
     title: The 'before' shot. OSB breaks down when it's on wet ground.
   - image_path: /assets/images/posts/i-have-a-porch/porch-2.jpeg
     title: Building the forms for two of the sheds. Greg was supervising
+  - image_path: /assets/images/posts/i-have-a-porch/porch-4.jpeg
+    title: So nice. Except for the stupid grass growing in the joint.
   - image_path: /assets/images/posts/i-have-a-porch/porch-3.jpeg
     title: Testing it out...
 
