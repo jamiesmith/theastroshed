@@ -5,7 +5,7 @@ header:
   overlay_color_off: "#5e616c"
   overlay_image: /assets/images/homepage/Horizontal-mw-banner.jpg
   caption:
-excerpt: 'Astronomers do it in the dark.<br/>'
+excerpt: 'Astrophotographers do it in the dark.<br/>'
 
 feature_row:
   - image_path: /assets/images/homepage/horizontal-mw-teaser.jpg

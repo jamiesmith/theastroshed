@@ -14,7 +14,7 @@ locale                   : "en-US"
 title                    : "The Astro Shed"
 title_separator          : "-"
 name                     : &name "Jamie Smith" # &name is a YAML anchor which can be *referenced later
-description              : &description "Join us as we photograph the night sky"
+description              : &description "Astrophotographers do it in the dark"
 url                      : https://www.theastroshed.com 
 baseurl                  : 
 repository               : "jamiesmith/theastroshedastro"
