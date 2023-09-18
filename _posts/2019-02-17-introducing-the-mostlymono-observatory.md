@@ -1,5 +1,5 @@
 ---
-title: "Introducing the Astro Shed Observatory"
+title: "Introducing The Astro Shed"
 tags: [ astroshed, GHRO ]
 classes: wide
 
