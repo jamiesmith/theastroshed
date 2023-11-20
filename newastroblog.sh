@@ -51,12 +51,12 @@ gallery:
 
 $(lorem --lines 2)
 
+<!--more-->
+
 {%
   include figure image_path="/assets/images/posts/${strippedTitle}/teaser.jpg"
   caption="Witty caption"
 %}
-
-<!--more-->
 
 $(lorem --lines 10)
 
