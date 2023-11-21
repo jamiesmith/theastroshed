@@ -7,12 +7,6 @@ classes: wide
 header:
   teaser: /assets/images/posts/trying-to-stay-organized-with-all-of-these-images/tree.png
 
-gallery:
-  - image_path: /assets/images/posts/trying-to-stay-organized-with-all-of-these-images/<image-one>
-    title: <image 1 title>
-  - image_path: /assets/images/posts/trying-to-stay-organized-with-all-of-these-images/<image-two>
-    title: <image 2 title>
-
 ---
 
 Astrophotography is a pretty data-heavy hobby. One night of imaging can result in 
