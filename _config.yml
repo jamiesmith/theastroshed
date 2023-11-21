@@ -101,31 +101,33 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
+  astrobin         : jamiesmithnc
   avatar           : "/assets/images/homepage/choctini.jpg"
   bio              : "Woodworker. Explaineer. Bar Geek."
-  location         : "Charlotte, NC"
-  email            :
-  uri              : "https://www.theastroshed.com"
-  home             : "https://www.theastroshed.com"
   bitbucket        :
+  cloudynights     : 15886-jrs  
   codepen          :
   dribbble         :
-  flickr           :
+  email            :
   facebook         : *facebook
+  flickr           :
   foursquare       :
   github           : "jamiesmith"
   gitlab           :
   google_plus      :
-  keybase          :
+  home             : "https://www.theastroshed.com"
   instagram        : "jamiesmithnc"
+  keybase          :
   lastfm           :
   linkedin         :
+  location         : "Charlotte, NC"
   pinterest        :
   soundcloud       :
   stackoverflow    : # https://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : *twitter
+  uri              : "https://www.theastroshed.com"
   vine             :
   weibo            :
   xing             :

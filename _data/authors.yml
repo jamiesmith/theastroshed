@@ -1,10 +1,12 @@
 # Authors
 
 jamiesmith:
-  name        : "Jamie Smith"
-  uri         : "https://www.theastroshed.com"
-  avatar      : "/assets/images/homepage/choctini.jpg"
-  bio         : "Woodworker. Explaineer. Bar Geek."
-  location    : "Charlotte, NC"
-  github      : "jamiesmith"
-  instagram   : "jamiesmithnc"
+  name         : "Jamie Smith"
+  uri          : "https://www.theastroshed.com"
+  avatar       : "/assets/images/homepage/choctini.jpg"
+  bio          : "Woodworker. Explaineer. Bar Geek."
+  location     : "Charlotte, NC"
+  github       : "jamiesmith"
+  instagram    : "jamiesmithnc"
+  astrobin     : jamiesmithnc
+  cloudynights : 15886-jrs
