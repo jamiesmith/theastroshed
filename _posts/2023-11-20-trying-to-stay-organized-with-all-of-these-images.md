@@ -1,7 +1,7 @@
 ---
 title: "How I keep my astro images organized"
 author: jamiesmith
-tags: []
+tags: [bash, organization, automation, NINA, scripting]
 classes: wide
 
 header:
@@ -132,23 +132,23 @@ and add a few placeholder/calibration directories, ending up here:
 Finally, I loop through all of the frames, putting them in their respective target/session folders 
 ```
 ├── M42
-│   ├── 2023-11-18
-│   │   ├── LIGHTS
-│   │   │   └── < LIGHTS GO HERE >
-│   │   ├── WBPP
-│   │   └── calibration
-│   └── M42-Project
-│       ├── 2023-11-18-CALIBRATED
-│       └── WORK_AREA
+│   ├── 2023-11-18
+│   │   ├── LIGHTS
+│   │   │   └── < LIGHTS GO HERE >
+│   │   ├── WBPP
+│   │   └── calibration
+│   └── M42-Project
+│       ├── 2023-11-18-CALIBRATED
+│       └── WORK_AREA
 ├── M45
-│   ├── 2023-11-18
-│   │   ├── LIGHTS
-│   │   │   └── < LIGHTS GO HERE >
-│   │   ├── WBPP
-│   │   └── calibration
-│   └── M45-Project
-│       ├── 2023-11-18-CALIBRATED
-│       └── WORK_AREA
+│   ├── 2023-11-18
+│   │   ├── LIGHTS
+│   │   │   └── < LIGHTS GO HERE >
+│   │   ├── WBPP
+│   │   └── calibration
+│   └── M45-Project
+│       ├── 2023-11-18-CALIBRATED
+│       └── WORK_AREA
 └── RAW_CALIBRATION
     └── 2023-11-18
         └── FLATS

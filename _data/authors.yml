@@ -1,9 +1,10 @@
 # Authors
 
-Billy Rick:
-  name        : "Billy Rick"
-  uri         : "http://thewhip.com"
-  email       : "billy@rick.com"
-  bio         : "What do you want, jewels? I am a very extravagant man."
-  avatar      : "/assets/images/bio-photo-2.jpg"
-  twitter     : "extravagantman"
+jamiesmith:
+  name        : "Jamie Smith"
+  uri         : "https://www.theastroshed.com"
+  avatar      : "/assets/images/homepage/choctini.jpg"
+  bio         : "Woodworker. Explaineer. Bar Geek."
+  location    : "Charlotte, NC"
+  github      : "jamiesmith"
+  instagram   : "jamiesmithnc"
