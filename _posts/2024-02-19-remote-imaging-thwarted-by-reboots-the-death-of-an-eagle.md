@@ -65,7 +65,7 @@ supplies. Still nope. I bought a new power cord (and those aren't
 cheap). NOPE. Having exhausted all that I could think of I finally opened a
 support ticket, and of course was about a month outside my warranty
 period. Thomas from PrimaluceLab still did help a bit and let me send it in for
-diagnosis: *failed motherboard* :frown:. I had to fix it on my dime because it was out of
+diagnosis: *failed motherboard* :frowning:. I had to fix it on my dime because it was out of
 warranty, but I was able to score a replacement on ebay, so other than my time
 and ~$100 it wasn't _too_ bad.
 
