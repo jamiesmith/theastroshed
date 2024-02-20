@@ -24,7 +24,7 @@ feature_row:
     btn_label: "Music"
 
 intro:
-  - excerpt: new posts coming soon!
+  - excerpt: Welcome to the new site!
 
 ---
 
