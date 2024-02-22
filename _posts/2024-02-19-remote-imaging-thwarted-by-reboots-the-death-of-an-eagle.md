@@ -63,7 +63,7 @@ This error could be caused if the system stopped responding,
 crashed, or lost power unexpectedly.
 ```
 
-The first time around I went through _months_ of diagnosis, because it was
+The first time around I went through _months_ of diagnostics, because it was
 completely random. First, I thought it might be temperature related with the
 power supply, so I put that in a cooler to keep it warm (ironic). Nope. I bought
 a UPS, blaming unstable power. Nope. I bought two different power
