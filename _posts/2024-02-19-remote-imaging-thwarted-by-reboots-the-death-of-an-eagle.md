@@ -49,6 +49,12 @@ to find we can do some ad hoc filtering. Select the "Filter Current Log...", and
 enter these Event IDs: `1074, 6005, 6006, 7001, 7002, 6008, 41`, which should
 give you an idea of why the system restarts.
 
+{%
+  include figure image_path="/assets/images/posts/remote-imaging-thwarted-by-reboots/dead-eagle_2.png"
+  caption="Looking for clues at the scene of the crime"
+%}
+
+
 In my case, the important one was actually EventID `41`:
 
 ```
