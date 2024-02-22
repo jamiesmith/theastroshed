@@ -1,6 +1,6 @@
 ---
 title: "Introducing The Astro Shed"
-tags: [ astroshed, GHRO ]
+tags: [ astroshed, ghro ]
 classes: wide
 
 header:

@@ -1,7 +1,7 @@
 ---
 title: "Remote imaging thwarted by reboots: The death of an Eagle"
 author: jamiesmith
-tags: []
+tags: [gear, primalucelabs, eagle, automation]
 classes: wide
 
 header:

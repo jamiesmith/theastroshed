@@ -1,6 +1,6 @@
 ---
 title: "Groundbreaking! Building the Astro Shed"
-tags: [ astroshed, GHRO ]
+tags: [ astroshed, ghro ]
 classes: wide
 
 header:
