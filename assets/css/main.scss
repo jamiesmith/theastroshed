@@ -38,12 +38,21 @@ figcaption {
 .masthead {
   border-bottom: 0px solid $border-color;
   background-color: $masthead-background-color;
+  &__inner-wrap {
+      padding: .1rem;
+  }
 }
 
 
 .greedy-nav {
   background-color: $masthead-background-color;
+  a {
+    padding: 0.1rem 0;
+  }
 }
+
+
+
 
 
 h1 {
