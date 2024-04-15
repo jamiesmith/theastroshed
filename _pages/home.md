@@ -23,8 +23,8 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Music"
 
-intro:
-  - excerpt: Welcome to the new site!
+# intro:
+#  - excerpt: Welcome to the new site!
 
 ---
 
