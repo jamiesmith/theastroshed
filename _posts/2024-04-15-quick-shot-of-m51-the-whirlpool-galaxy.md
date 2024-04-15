@@ -9,7 +9,7 @@ header:
 
 gallery:
   - image_path: /assets/images/posts/quick-shot-of-m51-the-whirlpool-galaxy/M51.jpg
-    title: <image 1 title>
+    title: M51 in RGB
 
 ---
 
@@ -26,3 +26,4 @@ For some reason the Target Scheduler wasn't being cooperative, and rather than
 do the configured "LRGB LRGB dither" it just took whatever images it felt like. 
 I ended up with 33 red, 30 green, and only 16 blue. 
 
+{% include astrobin_remote astrobin_id="hld55q" %}
