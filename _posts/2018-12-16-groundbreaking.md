@@ -4,18 +4,18 @@ tags: [ astroshed, ghro ]
 classes: wide
 
 header:
-  teaser: /assets/images/posts/groundbreaking-6.jpg
+  teaser: /assets/images/posts/groundbreaking/groundbreaking-6.jpg
 
 gallery:
-  - image_path: /assets/images/posts/groundbreaking-1.jpg
+  - image_path: /assets/images/posts/groundbreaking/groundbreaking-1.jpg
     title: Form is level, have to fill those gaps though!  Had no idea it was so unlevel.
-  - image_path: /assets/images/posts/groundbreaking-5.jpg
+  - image_path: /assets/images/posts/groundbreaking/groundbreaking-5.jpg
     title: Conduits for power to tripod(s), and from the warm room to the tripod(s) for contro
-  - image_path: /assets/images/posts/groundbreaking-7.jpg
+  - image_path: /assets/images/posts/groundbreaking/groundbreaking-7.jpg
     title: View from the northeast corner - Still lots of water
-  - image_path: /assets/images/posts/groundbreaking-9.jpg
+  - image_path: /assets/images/posts/groundbreaking/groundbreaking-9.jpg
     title: Close-up of the conduit
-  - image_path: /assets/images/posts/cement-mixer.jpg
+  - image_path: /assets/images/posts/groundbreaking/cement-mixer.jpg
     title: Getting ready to pour, the water is all gone (photo courtesy of Jim Carroll)
 
 ---
@@ -32,13 +32,13 @@ Greg, whom I have mentioned before, actually has an observatory built at GHRO.  
 Fast forward to November 30, 2018.  That was groundbreaking day.  I was doing it!  
 
 {%
-  include figure image_path="/assets/images/posts/groundbreaking-6.jpg"
+  include figure image_path="/assets/images/posts/groundbreaking/groundbreaking-6.jpg"
   caption="Forms are set"
 %}
 
 
 <figure style="width: 400px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/groundbreaking-4.jpg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/groundbreaking/groundbreaking-4.jpg" alt="">
   <figcaption>Using a transit level to see how bad Jim's plot is.  It was about as bad as mine.</figcaption>
 </figure>
 <br>
@@ -54,25 +54,25 @@ I'm not doing it alone, either - Jim is building one on to the east of Greg's. J
 <br>
 ## Going to Need Some Filler
 <figure style="width: 400px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/shed-sketchup.jpg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/groundbreaking/shed-sketchup.jpg" alt="">
   <figcaption>Mock-up of the shed, sans roof</figcaption>
 </figure>
 <br>
 First, some basics.  I am building what is called a "[CJE Max](http://www.backyardobservatories.com)" (their website isn't great, but they deserve a plug!).  The Sketchup model doesn't show the doors, but they will be there.  I will actually have room for two scopes in there (don't tell my wife :wink: ) so I have room to grow.  This will be a "roll-off roof" observatory, with a warm room.  The foundation will be a slab, 15'5" x 15'5", and about 6' of that footprint will be the "warm room".  As you can see in the sketch it will have a fold-down wall facing north.  Normally this whole thing would be flipped 180°, but due to the way the land works at GHRO we opted for this orientation.  
 <figure style="width: 400px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/groundbreaking-1.jpg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/groundbreaking/groundbreaking-1.jpg" alt="">
   <figcaption>Before filling in the forms- I needed several more 2x10s</figcaption>
 </figure>
 <br>
 Groundwater in that part of the observatory runs from the northwest to the southeast - so I wanted to make sure that my foundation was at least four inches above grade. This forced us to raise the other corners to match.  Those are 2x10s shown on the top - we used _another_ set of 2x10s below, and then some.  That would have been a LOT of concrete, so we opted to get some screen fill.  After talking with the folks at the quarry, they suggested that we get something called fill-screen, not a powder, but not exactly chunks, either.
 <figure style="width: 400px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/groundbreaking-2.jpg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/groundbreaking/groundbreaking-2.jpg" alt="">
   <figcaption>First load, ready to go</figcaption>
 </figure>
 <br><br>
 Dale has a flatbed trailer which he uses to cart around his Jonn Deere tractor, and the quarry was only about six miles away.  One of the tires on the trailer was a bit low on air, but luckily Jim had a compressor with him and topped it off.  We headed out to the quarry to get a load.  Two tons set me back a whopping $25.  We headed back to GHRO, and Dale, Jim, and I proceeded to use a mix of manual and John-Deere-assisted labor to spread it out.  The first batch didn't do a whole lot, so we went back for another two tons.  
 <figure style="width: 400px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/groundbreaking-3.jpg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/groundbreaking/groundbreaking-3.jpg" alt="">
   <figcaption>pulling off the tread</figcaption>
 </figure>
 <br><br>
@@ -92,7 +92,7 @@ The plan for the day was to tamp down the gravel, add a couple more runs of cond
 The first part of the plan, the tamping, didn't go so well.  It was more like stirring a bowl of mush- quite a bit of water was still trapped in there, so I moved on to the other chores.  I laid out two more conduit paths - one from the warm room to the northeast corner, for a future rain sensor (and potentially an all-sky camera), and another run just under the warm room wall, just in case.
 
 {%
-  include figure image_path="/assets/images/posts/groundbreaking-8.jpg"
+  include figure image_path="/assets/images/posts/groundbreaking/groundbreaking-8.jpg"
   caption="Ready for the pour"
 %}
 
@@ -102,7 +102,7 @@ After lunch I met with Timmy, who specializes in concrete finishing.  He will ov
 
 I wasn't able to be there when they poured, but luckily Jim was.  Hiring Timmy to oversee it took a lot of stress out of the process - He was able to check my work, take care of ordering the concrete, and get it all level & smooth.  Jim even sent a picture!
 {%
-  include figure image_path="/assets/images/posts/concrete-poured.jpg"
+  include figure image_path="/assets/images/posts/groundbreaking/concrete-poured.jpg"
   caption="Ready for the pour (photo courtesy of Jim Carroll)"
 %}
 

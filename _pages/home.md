@@ -30,7 +30,7 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 
-{%- for post in site.posts limit:15 -%}
+{%- for post in site.posts limit:5 -%}
   {% include archive-single.html %}
 {%- endfor -%}
 

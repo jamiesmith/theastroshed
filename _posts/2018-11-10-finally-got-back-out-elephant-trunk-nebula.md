@@ -7,9 +7,9 @@ header:
   teaser: /assets/images/posts/ElephantTrunkSHO.jpg
 
 gallery:
-  - image_path: /assets/images/posts/mount-setup-1.jpg
+  - image_path: /assets/images/posts/finally-got-back-out-elephant-trunk-nebula/mount-setup-1.jpg
     title: Mount
-  - image_path: /assets/images/posts/mount-setup-2.jpg
+  - image_path: /assets/images/posts/finally-got-back-out-elephant-trunk-nebula/mount-setup-2.jpg
     title: Another View
 
 ---

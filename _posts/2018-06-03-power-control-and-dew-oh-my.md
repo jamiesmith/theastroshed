@@ -4,7 +4,7 @@ tags: [ astrophotography, gear, unboxing ]
 classes: wide
 
 header:
-  teaser: /assets/images/posts/rigrunner.jpg
+  teaser: /assets/images/posts/power-control-and-dew-oh-my/rigrunner.jpg
 
 gallery:
   - image_path: /assets/images/unboxing/eagle2-1.jpg
@@ -25,7 +25,7 @@ The last chunk of stuff from the initial bullet list (see ["Pulled the trigger..
 <!--more-->
 
 {%
-  include figure image_path="/assets/images/posts/rigrunner.jpg"
+  include figure image_path="/assets/images/posts/power-control-and-dew-oh-my/rigrunner.jpg"
   alt="Finally!"
   caption="Finally!"
 %}
@@ -53,13 +53,13 @@ The plan was to control the rig with a remote-controlled micro computer, and run
 These micro computers, such as the [Intel NUC](https://www.amazon.com/Intel-mini-NUC7i5BNK-Core-version/dp/B01N4EP1N0), tend to come "bare bones".  They don't have drives, RAM, or an operating system.  You can buy bundles but I planned to cobble it together myself (parts list below).  The NUC only has four USB ports, which isn't enough, so I would also need a [quality USB hub](https://www.amazon.com/gp/product/B06ZZ7NDTG).  I was opting for the windows 10 "pro" variety, which has [Remote Desktop](https://www.microsoft.com/en-us/p/microsoft-remote-desktop/9wzdncrfj3ps) built in.  You can get away with other remote software, such as [TightVNC](https://tightvnc.com) or [TeamViewer](https://www.teamviewer.us).  If you use the alternatives mentioned you can get away with the "home" flavor.
 
 <figure style="width: 200px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/rigrunner.jpg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/power-control-and-dew-oh-my/rigrunner.jpg" alt="">
   <figcaption>RIGrunner</figcaption>
 </figure> 
 For power, the plan was to run a RIGrunner 4008 setup with Anderson powerpoles connectors.  In general, you can usually just snip the power side of your cords, replace them with powerpole connectors, and plug them in.  You can also buy various 2.5 pigtails and connectors.  Another great resource for powerpole things is [Powerwerx](https://powerwerx.com).  They have top-notch stuff but their shipping is pretty high.  The RIGrunner has some pretty high amp fuses, so I planned to replace them with much lower amp versions to match the corresponding equipment.  The RIGrunner/powerpole stuff gets pretty pricey.  Don't forget the crimp, extra cord (silicone wire is a good choice), and a 
 
 <figure style="width: 200px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/dew-heater.jpg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/power-control-and-dew-oh-my/dew-heater.jpg" alt="">
   <figcaption>DigiFire</figcaption>
 </figure> 
 I didn't know anything about dew heaters.  I poked around and found that the [Kendrick](http://www.kendrickastro.com) brand was pretty respected.  You need a controller and the actual heaters.  For the controller, I chose the DigiFire 8.  This was overkill because I didn't need four dew heaters, but it works with just two.  I also had to grab a couple dew _straps_.  These just plug into the controller, then wrap around the OTA and guidescope.  The whole purpose here is to keep the optics above the dew point.
