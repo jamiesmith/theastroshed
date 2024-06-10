@@ -60,7 +60,11 @@ $(lorem --lines 2)
 
 $(lorem --lines 10)
 
-{% include gallery id="gallery" caption="<add caption here>" %}
+{% include gallery id="gallery" caption="Click an image to see it bigger with some acquisition info" %}
+
+### Image details on Astrobin
+{% include astrobin_remote astrobin_id="XXXXX" name="ShortName"%}
+
 
 EOF
 
