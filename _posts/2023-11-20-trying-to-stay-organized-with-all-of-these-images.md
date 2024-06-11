@@ -21,7 +21,7 @@ to keep them organized, especially now that I'm starting to image remotely.
 
 To understand the hierarchy it might help if I outline the steps that I go through
 at the end of an imaging session. I basically copy the data to the right folder structure
-on my computer, run PixInsight's WBPP script, then take put the calibrate files in the respective project folders.
+on my computer, run PixInsight's WBPP script, then take put the calibrated files into their respective project folders.
 
 Step by step, that's:
 - Import the previous night's images
