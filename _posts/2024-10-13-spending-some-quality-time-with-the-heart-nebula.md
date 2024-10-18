@@ -16,6 +16,8 @@ gallery:
     title: Oxygen / Oiii Filter
   - image_path: /assets/images/posts/spending-some-quality-time-with-the-heart-nebula/HeartNebula_SHO_with_rgb_stars.jpg
     title: Combined and processed image
+  - image_path: /assets/images/posts/spending-some-quality-time-with-the-heart-nebula/HeartNebulaRGB.jpg
+    title: Lightly processed RGB for comparison
 
 
 ---
