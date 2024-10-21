@@ -1,7 +1,7 @@
 ---
 title: "First remote imaging: Veil Nebula and M101"
 author: jamiesmith
-tags: []
+tags: [astrophotography, ghro, NINA, narrowband, Veil Nebula, M101, Pinwheel Galaxy]
 classes: wide
 
 header:
