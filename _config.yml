@@ -102,8 +102,8 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   astrobin         : jamiesmithnc
-  avatar           : "/assets/images/homepage/choctini.jpg"
-  bio              : "Woodworker. Explaineer. Bar Geek."
+  avatar           : "/assets/images/homepage/jamie-smith.jpg"
+  bio              : "Woodworker. Explaineer. Gadget Geek."
   bitbucket        :
   cloudynights     : 15886-jrs  
   codepen          :
