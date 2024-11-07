@@ -142,8 +142,8 @@ For EACH of the SHO frames, I do the following:
 - Experiment with the various gradient removal techniques, similar to the RGB flow (but, instead, on the discrete frames)
 - OPTIONALLY, Stretch the frames with GHS (this can be done later, after they're combined)
 
-**Then** I combine the images into an SHO image, mapping Sii --> Red, Ha -->
-**Green, and Oiii --> Blue. **Don't Panic**. It's gonna be green. Very
+**Then** I combine the images into an SHO image, mapping Sii → Red, Ha →
+**Green, and Oiii → Blue. **Don't Panic**. It's gonna be green. Very
 **green... There are a couple different options, but the straight channel
 **mapping has been working for me as it goes through the workflow
 
@@ -159,7 +159,7 @@ For EACH of the SHO frames, I do the following:
   - if you have an `RGB_starless_stars` image, the `SHO_starless` image is probably no longer needed
 - If you haven't stretched yet (AKA, the image is still linear), run a GHS on the `SHO_starless` image
   - Experiment on where you do this step (before vs after combining). It's easy to overstretch if you do it earlier in the process, but you can get a lot more detail that way
-- Depending on the subject, I try the "DarkStructureEnhance" script, which is in the `Script --> Utilities` menu
+- Depending on the subject, I try the "DarkStructureEnhance" script, which is in the `Script → Utilities` menu
 
 The rest is usually experimenting with the overall look. Maybe enhancing the hue
 or saturation with curves or a "local histogram equalization".
