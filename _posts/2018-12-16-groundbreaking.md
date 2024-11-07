@@ -43,15 +43,10 @@ Fast forward to November 30, 2018.  That was groundbreaking day.  I was doing it
 </figure>
 <br>
 I'm not doing it alone, either - Jim is building one on to the east of Greg's. Jim and I have both gotten a **tremendous** amount of help from Dale, a fellow CAAC club member.  He brought to the team some experience working with forms and concrete, and, more importantly, a frontloader.  When you are in a big field it is pretty hard to gauge how out of level a small part of it is.  We picked a spot that looked to be pretty uniform.  The back-left (southeast) corner had to come up over a foot to meet the front-right for each of our pads.
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+<p style="height: 350px">&nbsp;</p>
+
+
 ## Going to Need Some Filler
 <figure style="width: 400px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/groundbreaking/shed-sketchup.jpg" alt="">
@@ -63,7 +58,7 @@ First, some basics.  I am building what is called a "[CJE Max](http://www.backya
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/groundbreaking/groundbreaking-1.jpg" alt="">
   <figcaption>Before filling in the forms- I needed several more 2x10s</figcaption>
 </figure>
-<br>
+<br><br>
 Groundwater in that part of the observatory runs from the northwest to the southeast - so I wanted to make sure that my foundation was at least four inches above grade. This forced us to raise the other corners to match.  Those are 2x10s shown on the top - we used _another_ set of 2x10s below, and then some.  That would have been a LOT of concrete, so we opted to get some screen fill.  After talking with the folks at the quarry, they suggested that we get something called fill-screen, not a powder, but not exactly chunks, either.
 <figure style="width: 400px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/groundbreaking/groundbreaking-2.jpg" alt="">
@@ -80,9 +75,9 @@ Unfortunately, on the way back we ran into a little trouble-- a blown tire.  Str
 
 
 It was a very productive (albeit exhausting) day -- we started with four stakes and dirt, ended up with forms, conduit for wiring, gravel, and ~3 feet of vulcanized rubber.
-<br><br>
-<br><br>
-<br>
+
+<p style="height: 200px">&nbsp;</p>
+
 ## Will it ever stop raining?
 
 We get our share of rain in the Carolinas, but November and December 2018 were ridiculous.  It rained *every weekend*.  The first decent day was this past Sunday, December 16th.  We don't have an exact date of when they folks from Backyard Observatories will be here, so we need to be ready sooner rather than later, and there was plenty more to do.  I headed out bright and early.

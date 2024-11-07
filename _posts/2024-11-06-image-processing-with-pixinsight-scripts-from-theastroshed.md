@@ -75,7 +75,7 @@ them in. It would end up looking something like this:
 
 Even with the `ImageIdentifier` process icons it was still three to seven steps (LRGB and/or SHO) to rename the views, plus zooming and stretching each. With the added bonus of there being a good chance that I'd mess something up. That's when I started looking into scripting.
 
-# Introducing theAstroShed PixInsight repo
+# theAstroShed PixInsight repo
 
 I became a certified PixInsight developer so I could distribute some tools. Initially I wrote two tools to make the above steps easier, while reducing the chance for error.
 
@@ -108,6 +108,12 @@ for each image if necessary. One drag, one drop, all nice names.
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 That leaves us with a bunch of black, unstretched rectangles. Rather than autostretching and fixing the zoom on each, one at a time...
 
@@ -129,7 +135,13 @@ based on the size of their respective viewport. I use that latter option, but
 rather than apply it globally, I save off a new instance of the process icon to
 again drag & drop it onto an image to apply to all of the open and visible
 images.
-<br><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## Bonus Script: Append Prefix and/or Suffix to the Image Identifier
 
 <figure style="width: 400px" class="align-right">
@@ -148,11 +160,17 @@ I already had the prefix/suffix logic in the Smart Rename View script, so I made
 a standalone script, just for that. It really only makes sense for it to live as
 a saved process icon (I guess that these are "script icons", really).
 
-
+<p>
+<br>
+<br>
+<br>
+<br>
+</p>
+    
 ## Installing the scripts
 
-I hope that you find these scripts useful. To install these scripts add the
-following repository to PixInsight's repository manager and perform the standard
+I hope that you find these scripts useful. To install these scripts, add the
+following repository to PixInsight's repository manager, then perform the standard
 "check for updates" and restart logic. Note: Don't omit the ending `/` or you
 will likely get a `400` or `404` return code.
 
@@ -165,11 +183,11 @@ https://raw.githubusercontent.com/jamiesmith/pixinsight-repo/main/
   caption="Update"
 %}
 
-Once you've successfully installed and restarted PixInsight you should see a
-`theAstroShed` entry under your scripts menu, or you can download the and open
+Once you've successfully installed and restarted PixInsight, you should see an 
+entry for `theAstroShed` under your scripts menu. You can download the and open
 the [sample process
 icons](https://raw.githubusercontent.com/jamiesmith/pixinsight-icons/refs/heads/main/theAstroShedScripts.xpsm)
-with PixInsight (to download, right click the link and save the file)
+with PixInsight to see how I configure them (to download, right click the link and save the file)
 
 {%
   include figure image_path="/assets/images/posts/image-processing-with-pixinsight-scripts-from-theastroshed/the-astroshed-scripts.jpg"
@@ -185,7 +203,8 @@ issue](https://github.com/jamiesmith/pixinsight-repo/issues) on the GitHub repo,
 or let me know on [AstroBin](https://www.astrobin.com/users/jamiesmithnc/) or
 [instagram](https://www.instagram.com/jamiesmithnc).
 
-In my next post I'll try to run through a high-level overview of my lazy image
+In ~~my next post~~ [RGB and SHO image processing workflows, 2024 edition](/my-rgb-and-sho-workflows-2024-edition/)
+I run through a high-level overview of my lazy image
 processing workflow that uses these scripts, along with several other great
-tools (some paid and some included with PixInsight)
+tools (some paid, and some included with PixInsight)
 

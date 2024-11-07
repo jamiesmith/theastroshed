@@ -47,7 +47,8 @@ I did have to wait quite a bit on this since it was new, but it still came _way_
 I mounted the Atik-16200 directly to the EFW3 - a pretty easy procedure once you get the nosepiece off (you have to unscrew a teeny tiny hex set screw to do so).  While I still didn't have the filters, I was _finally_ able to start messing with the actually full assembly.  
 
 
-![image-right](/assets/images/unboxing/camera-case-3.jpg){: .align-right}
+![no-alignment](/assets/images/unboxing/camera-case-3.jpg)
+
 Since the camera didn't come with a case, and because I can't haul a case with my rig fully assembled, I ordered a pelican storm case for the camera and filter wheel.  I even had a custom foam cutout made for it at [MyCaseBuilder](https://mycasebuilder.com) - I suggest you pay the $8 for the "oopsie" insurance.  DAMHIKT. 
 
 I got the [IM2275](https://mycasebuilder.com/cases-by-brand/custom-foam-storm-cases/pelican-storm-im2275-custom-foam-case/) and used the technical drawing of the filter wheel as the basis (except, well, I had it upside-down).  I even added a recess to use as a storage nook for the camera & telescope dust caps.  The case 

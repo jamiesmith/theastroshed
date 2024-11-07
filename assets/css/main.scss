@@ -2,6 +2,14 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+$type-size-1: 2.441em !default;  // ~39.056px
+$type-size-2: 1.953em !default;  // ~31.248px
+$type-size-3: 1.563em !default;  // ~25.008px  (H1)
+$type-size-4: 1.25em !default;   // ~20px      (H2)
+$type-size-5: 0.85em !default;    // ~14px      (normal body text, H3, H4)
+$type-size-6: 0.75em !default;   // ~12px      (sidebar)
+$type-size-7: 0.6875em !default; // ~11px
+$type-size-8: 0.625em !default;  // ~10px
 @charset "utf-8";
 
 $sans-serif: "Fira Sans", sans-serif !default;
@@ -480,5 +488,39 @@ figure.highlight {
   pre.highlight {
     margin: 0;
     padding: 1em;
+  }
+}
+
+ul li, ol li {
+  margin-bottom: 0.1em;
+}
+
+ul ul {
+    font-size: .9rem;
+}
+
+.page__content {
+  p,
+  li,
+  dl {
+    font-size: $type-size-5;
+  }
+}
+
+p > code,
+a > code,
+li > code,
+figcaption > code,
+td > code {
+  padding-top: 0.1rem;
+  padding-bottom: 0.1rem;
+  font-size: $type-size-5;
+  background: $code-background-color;
+  border-radius: $border-radius;
+
+  &:before,
+  &:after {
+    letter-spacing: -0.2em;
+    content: "\00a0"; /* non-breaking space*/
   }
 }

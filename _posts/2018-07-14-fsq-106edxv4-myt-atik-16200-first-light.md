@@ -25,9 +25,8 @@ As could be expected, the evening was not without problems.  As I mentioned, thi
   <img src="/assets/images/posts/mount-setup-first-light.jpg" alt="">
   <figcaption>Set up in the driveway</figcaption>
 </figure>On my first night out I wanted to make sure that I got there early to avoid setting up in the dark.  While I neglected to take a picture of the rig in action, I did during a dry-run at home, afterwards ("dry run" because it got cloudy).  I plan to post some more rig pictures in the future, including cable management, software, laptop specs, etc.  For now, this is the best that I have.  I had plenty of time to get everything assembled, balanced, polar aligned, and start imaging.  Well, that was the theory.  What I'd like to do is go through the high-level details of what I was trying to do, and what I did wrong, so perhaps you can learn from my mistakes.
-<br>
-<br>
-<br>
+<p style="height: 150px">&nbsp;</p>
+
 ## What is north, anyway?
 
 The purpose of a compass is to determine where the [north magnetic pole](https://en.wikipedia.org/wiki/North_Magnetic_Pole) is.  _Magnetic_ north is not the same as _true north_.  I know this, but still messed it up.  That mistake is what caused the most grief as the evening went on.  This was a major screwup.  I used a compass to find north, and used the calculated 8° [magnetic declination](https://en.wikipedia.org/wiki/Magnetic_declination) (or deviation, whichever you prefer) to set up the tripod (ok, technically, they call it a portable pier, but it looks more like a tripod.  Strangely, their "tripod" looks more like a portable pier.  Go figure).  I had it centered pointing at my 8° deviation from magnetic north.  The problem?  My deviation was **the wrong way**.  So I started out 16° off.  Moron.  At least I had the right hemisphere.  Obviously, I didn't realize this error until much later in the evening...
