@@ -148,7 +148,7 @@ For EACH of the SHO frames, I do the following:
 **mapping has been working for me as it goes through the workflow
 
 - With my newly combined image, I drop on the `Rename_SHO` icon to change the image identifier to be `SHO`
-- I run the script `Script -> Toolbox -> AutoLinearFit` on the new `SHO` with the green channel as the reference
+- I run the script `Script → Toolbox → AutoLinearFit` on the new `SHO` with the green channel as the reference
 - I perform `NarrowbandNormalization` on the `SHO` image, selecting the `SHO` palette, turning on the live preview, and tweaking the channel controls and adjustments (if you don't know what they do, just crank them to 0 or 11 to see the impact)
 - then an STF autostretch
 - I skip the SPCC options

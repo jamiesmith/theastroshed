@@ -46,7 +46,7 @@ I drag & drop all of the images that I want to open from Finder onto the PixInsi
 This leaves them cascaded and unstretched, with their WBPP names (for example,
 the totally clear Ha frame,
 `masterLight_BIN-1_9576x6388_EXPOSURE-600.00s_FILTER-Ha_mono.xisf`). Once
-they're all open I select the `Window -> Tile Windows` command, which leaves
+they're all open I select the `Window → Tile Windows` command, which leaves
 them like this:
 
 {%
