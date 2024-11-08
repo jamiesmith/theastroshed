@@ -1,8 +1,8 @@
 # Google Fonts
 google_fonts:
-  - name: "Fira Sans"
+  - name: "Montserrat"
     weights: "400,400i,600,600i"
-  - name: "Rye"
+  - name: "Merriweather"
     weights: "400,400i,600,600i"
 
 # Link to specific internal pages in the navigation.

@@ -1,5 +1,5 @@
 ---
-title: "RGB and SHO image processing workflows, 2024 edition"
+title: "RGB & SHO image processing workflows, 2024 edition"
 author: jamiesmith
 tags: []
 classes: wide
@@ -9,23 +9,16 @@ header:
 
 
 ---
-
-Things have been changing pretty rapidly in the astrophotography world. What,
-for years, had been a pretty slow pace, has had a generational leap
-with the advent of new "smart" telescopes and improved smartphone cameras.
-
-Astro-image processing is in the same boat. Image processing workflows in
-PixInsight were fairly stable for several years. Yeah, there were a few
-new utilities that made things easier (Weighted Batch Preprocessor, or WBPP
-comes to mind.) But, in the fairly recent past, other new tools have completely
-changed the game, providing a generational leap in image processing- things like
-[RC-Astro's *XTerminator tools](https://www.rc-astro.com/software/)
-(Star, Noise, and Blur). Even Generalized Hyperbolic Stretch (GHS) has 
-had a big impact- at least on how I work.
-
-In this post I'll walk through a high-level overview of how I process images.
-It's repeatable, pretty streamlined, and I think that you can get pretty good
-results without a lot of theory or math.
+In the past few years the tools used to process astro-images have made a
+generational leap. Tools built into PixInsight, like WBPP (Weighted Batch
+Preprocessor), have simplified calibration and integration, while other free
+tools, like Generalized Hyperbolic Stretch (GHS), and [SetiAstro's
+helpers](https://www.setiastro.com/pjsr-scripts) are making processing in PI
+easier (once you learn them). Other, paid tools, like [RC-Astro's *XTerminator
+tools](https://www.rc-astro.com/software/) have amplified the leap. In this post
+I'll walk through a high-level overview of how I process images.  It's
+repeatable, pretty streamlined, and I think that you can get pretty good results
+without a lot of theory or math.
 
 <!--more-->
 
@@ -73,7 +66,7 @@ unless there's something interesting.
 - Merge the RGB stars with the SHO starless
 - Final tweaking
 
-# Breaking down the flow snapshot
+# Breaking down the flow overview
 {%
   include figure image_path="/assets/images/posts/my-rgb-and-sho-workflows-2024-edition/baseline-setup.jpg"
   caption="Baseline setup, with SHO & RGB frames from the Heart Nebula"
@@ -83,7 +76,7 @@ For the first "Open, tile, rename, and stretch" step I use the [scripts that I
 created](/image-processing-with-pixinsight-scripts-from-theastroshed/) to get to
 a baseline view of what I've got. In this case you can see what that looks like
 for the Heart Nebula that I recently processed. Once I'm to this point I can
-start the flows
+start the flows.
 
 Disclaimer on any of the menus/script locations: Some of the tools aren't built
 in, but if you include the repos in the appendix they should be in the right
@@ -91,6 +84,13 @@ places.
 
 ## The RGB Workflow
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/posts/my-rgb-and-sho-workflows-2024-edition/rgb-icons.jpg){: .align-right} 
+
+For each of the workflows I've included a screenshot of the PixInsight 
+[process icons](https://github.com/jamiesmith/pixinsight-icons) that I 
+use for the flow. I pretty much start at the top and work my way down.
+For scripts that don't provide the ability to create a new instance (the
+little triangle), I put a "No Op" (`NOP` in the set) as a placeholder, with
+a descriptive name and, in some cases, details in the icon description.)
 
 - `DynamicCrop` (note that I crop the SHO and RGB frames with the same instance of dynamic crop)
 - Combine (L)RGB channels (I just open this and run it)
@@ -130,8 +130,8 @@ starless version and rescreen the stars (definitely will if there aren't any
 narrowband frames), but I usually move on to the SHO side.
 
 ## SHO Workflow
-Right off the bat - there are some icons in this that I _do not use_, but I keep
-them around for quick sanity checks of data. A good example are the SPCC steps
+Right off the bat: there are some icons in this that I _do not use_ for final images, 
+but I keep them around for quick sanity checks of data. A good example are the SPCC steps
 in the SHO path
 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/posts/my-rgb-and-sho-workflows-2024-edition/sho-icons.jpg){: .align-right} 
