@@ -1,7 +1,7 @@
 ---
 title: "How I keep my astro images organized"
 author: jamiesmith
-tags: [bash, organization, automation, NINA, scripting ]
+tags: [organization, automation, NINA, scripting ]
 classes: wide
 
 header:

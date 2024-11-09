@@ -1,7 +1,7 @@
 ---
 title: "Quickshot: The Crescent Nebula - NCG 6888"
 author: jamiesmith
-tags: [ghro, NINA, TargetScheduler, crescent, NGC-6888, nebula]
+tags: [ghro, NINA, TargetScheduler, crescent, nebula]
 classes: wide
 
 header:

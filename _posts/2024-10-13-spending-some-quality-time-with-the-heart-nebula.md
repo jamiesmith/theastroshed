@@ -1,7 +1,7 @@
 ---
 title: "Spending some quality time with the Heart Nebula"
 author: jamiesmith
-tags: [ghro, NINA, narrowband, Heart Nebula, IC1805, nebula]
+tags: [ghro, NINA, narrowband, Heart Nebula, nebula]
 classes: wide
 
 header:
