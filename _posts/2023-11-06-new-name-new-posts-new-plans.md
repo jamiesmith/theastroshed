@@ -1,7 +1,8 @@
+
 ---
 title: "New name, new posts, new plans"
 author: jamiesmith
-tags: [astroshed, ghro, automation, software bisque]
+tags: [ghro, automation, software bisque]
 classes: wide
 
 header:

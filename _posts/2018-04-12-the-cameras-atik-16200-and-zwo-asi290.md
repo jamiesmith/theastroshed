@@ -1,6 +1,6 @@
 ---
 title: "The Cameras: Atik 16200 Mono & ZWO ASI290 Mini Mono"
-tags: [ astrophotography, gear, unboxing, atik, zwo ]
+tags: [ gear, unboxing, atik, zwo ]
 classes: wide
 
 header:

@@ -1,6 +1,6 @@
 ---
 title: "and so it begins..."
-tags: [ astrophotography, old gear]
+tags: [ old gear]
 header:
   teaser: /assets/images/homepage/horizontal-mw-teaser.jpg
 ---

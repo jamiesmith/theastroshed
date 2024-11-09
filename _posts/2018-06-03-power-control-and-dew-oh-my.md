@@ -1,6 +1,6 @@
 ---
 title: "Power, Control, and Dew, oh my!"
-tags: [ astrophotography, gear, unboxing ]
+tags: [unboxing ]
 classes: wide
 
 header:

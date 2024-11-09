@@ -1,7 +1,7 @@
 ---
 date: 2018-04-19
 title: "The Filter Wheel: Atik EFW3 and the case of the missing Astrodons"
-tags: [ astrophotography, gear, unboxing, atik ]
+tags: [ gear, unboxing, atik ]
 classes: wide
 
 header:

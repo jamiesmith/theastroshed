@@ -1,7 +1,7 @@
 ---
 toc: true
 title: "The Mount: Paramount MyT"
-tags: [ astrophotography, gear, unboxing ]
+tags: [ unboxing, software bisque ]
 # classes: wide
 
 header:

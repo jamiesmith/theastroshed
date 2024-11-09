@@ -1,7 +1,7 @@
 ---
 title: "Quick shot of M51, the Whirlpool Galaxy"
 author: jamiesmith
-tags: [astrophotography, ghro, NINA, TargetScheduler, M51]
+tags: [ghro, NINA, TargetScheduler, M51, messier, galaxy]
 classes: wide
 
 header:

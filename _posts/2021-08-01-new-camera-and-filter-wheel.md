@@ -1,7 +1,7 @@
 ---
 title: "New camera and filter wheel"
 author: jamiesmith
-tags: [astrophotography, gear, camera, atik, zwo, astrodon]
+tags: [atik, zwo]
 classes: wide
 
 header:

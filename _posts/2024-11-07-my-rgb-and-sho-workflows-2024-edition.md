@@ -1,7 +1,7 @@
 ---
 title: "RGB & SHO image processing workflows, 2024 edition"
 author: jamiesmith
-tags: []
+tags: [PixInsight]
 classes: wide
 
 header:
@@ -14,8 +14,7 @@ generational leap. Tools built into PixInsight, like WBPP (Weighted Batch
 Preprocessor), have simplified calibration and integration, while other free
 tools, like Generalized Hyperbolic Stretch (GHS), and [SetiAstro's
 helpers](https://www.setiastro.com/pjsr-scripts) are making processing in PI
-easier (once you learn them). Other, paid tools, like [RC-Astro's *XTerminator
-tools](https://www.rc-astro.com/software/) have amplified the leap. In this post
+easier (once you learn them). Other, paid tools, like [RC-Astro's *XTerminator tools](https://www.rc-astro.com/software/) have amplified the leap. In this post
 I'll walk through a high-level overview of how I process images.  It's
 repeatable, pretty streamlined, and I think that you can get pretty good results
 without a lot of theory or math.

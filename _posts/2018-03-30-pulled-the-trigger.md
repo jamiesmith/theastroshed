@@ -1,6 +1,6 @@
 ---
 title: "Pulled the trigger on the dream rig"
-tags: [ astrophotography, gear ]
+tags: [ gear ]
 header:
   teaser: assets/images/unboxing/out-for-delivery.jpg 
 ---

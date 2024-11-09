@@ -1,7 +1,7 @@
 ---
 title: "I have a porch!"
 author: jamiesmith
-tags: [ghro, shed]
+tags: [ghro, astroshed]
 classes: wide
 
 header:

@@ -1,6 +1,6 @@
 ---
 title: "Finally got back out under the stars"
-tags: [ astrophotography, nebula ]
+tags: [ nebula ]
 classes: wide
 
 header:

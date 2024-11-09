@@ -1,7 +1,7 @@
 ---
 title: "Image processing: PixInsight scripts from theAstroShed"
 author: jamiesmith
-tags: [astrophotography, PixInsight]
+tags: [PixInsight]
 classes: wide
 
 header:
