@@ -38,7 +38,7 @@ I am now a member of the Charlotte Amateur Astronomers Club, which has an observ
   caption="GHRO from above, taken with a Phantom 4 Pro"
 %}
 
-The skies here aren't Arizona or New Mexico dark, but it is considerably darker than my yard.  I can actually see the Milky Way band with my "getting older" eyes.  I took a trek out there with my tripod, Nikon D5500, and my [iOptron SkyTracker Pro](https://www.ioptron.com/product-p/3322.htm).  Mine was red, not sure when it changed to black.  
+The skies here aren't Arizona or New Mexico dark, but it is considerably darker than my yard.  I can actually see the Milky Way band with my "getting older" eyes.  I took a trek out there with my tripod, Nikon D5500, and [iOptron SkyTracker Pro](https://www.ioptron.com/product-p/3322.htm).  Mine was red, not sure when it changed to black.  
 
 It was pretty funny sitting out there at their biggest star party of the year.  There I was, with my card table, tripod, and teeny little tracker.  Surrounded by various mounts, including a [Celestron AVX](https://www.amazon.com/Celestron-Advanced-VX-Mount-Finder/dp/B0175TQ4NA), an [Orion Atlas](https://www.telescope.com/Orion/Mounts-Tripods/Equatorial-Mounts-Tripods/Orion-Atlas-EQ-G-Computerized-GoTo-Telescope-Mount/rc/2160/pc/-1/c/2/sc/34/p/116277.uts), and a Paramount MyT.  The club also has a very nice selection of telescopes-  I will throw a few in the gallery, below.
 
