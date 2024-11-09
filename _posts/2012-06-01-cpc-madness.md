@@ -1,7 +1,7 @@
 ---
 title: "Celestron CPC Edge-HD"
 author: jamiesmith
-tags: [ old gear]
+tags: [beginner]
 header:
   teaser: /assets/images/posts/cpc-2.jpg
 ---

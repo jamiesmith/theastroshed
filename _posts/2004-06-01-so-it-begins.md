@@ -1,6 +1,6 @@
 ---
 title: "and so it begins..."
-tags: [ old gear]
+tags: [beginner]
 header:
   teaser: /assets/images/homepage/horizontal-mw-teaser.jpg
 ---
