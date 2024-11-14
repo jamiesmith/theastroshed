@@ -1,4 +1,3 @@
-
 ---
 title: "New name, new posts, new plans"
 author: jamiesmith
