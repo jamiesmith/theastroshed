@@ -18,7 +18,7 @@ gallery:
     title: North America Nebula (RGB starless)
     
 ---
-A quick process of the North America Nebula. This is about eighteen hours of RGB data and I like how it turned out :smiley:.
+A quick process of the North America Nebula. This is about eighteen hours of SHO + RGB data and I like how it turned out :smiley:.
 
 See below for acquisition details. 
 
@@ -53,6 +53,6 @@ Per-filter totals for North America Nebula:
 {% include gallery id="gallery" caption="Click an image to see it bigger with some acquisition info" %}
 
 ### Image details on Astrobin
-{% include astrobin_remote astrobin_id="XXXXX" name="North America Nebula"%}
+{% include astrobin_remote astrobin_id="37lzqr" name="North America Nebula"%}
 
 
