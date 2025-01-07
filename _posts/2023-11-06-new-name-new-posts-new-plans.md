@@ -22,7 +22,7 @@ gallery:
 ---
 
 If you've been following us you've likely noticed that we've changed our name
-and URL, we're now simply [theAstroShed.com](https://www.theAstroShed.com). The
+and URL, we're now simply [theAstroShed.com](https://www.theAstroShed.com). The 
 near-term plan is to be able to image remotely.  The weather that we've been
 having lately has been very flaky, often not worth the 45-minute drive
 (especially in the summer, when it feels like there's only a few hours of
