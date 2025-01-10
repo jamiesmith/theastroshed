@@ -37,7 +37,7 @@ three nebulae that showcase the awe-inspiring beauty of star formation. The
 Flaming Star, Tadpoles, and Spider Nebulae are three distinct yet captivating 
 objects in the universe. 
  
-The Flaming Star Nebula, also known as NGC 2264, is a stunning emission nebula 
+The Flaming Star Nebula, also known as NGC 2264 and IC 405, is a stunning emission nebula 
 located about 1,500 light-years away from Earth. With an apparent size of 
 approximately 6 arcminutes, this nebula is visible to the naked eye on a clear 
 night. Its vibrant red color is due to the presence of hydrogen and helium gas, 
@@ -45,15 +45,15 @@ which are ionized by the intense radiation of young stars. The Flaming Star
 Nebula is also notable for its complex structure, with multiple layers of dense 
 gas and dust that give rise to new star formation. 
  
-The Tadpole Galaxy, also known as NGC 3992, is a spiral galaxy located about 60 
+The Tadpole Nebula, also known as NGC 3992/IC 410, is a spiral galaxy located about 60 
 million light-years away from Earth. With an apparent size of approximately 30 
 arcminutes, this galaxy is easily visible through a telescope. The name 
 "Tadpole" was coined due to the galaxy's unique shape, which resembles that of 
-an aquatic animal. The Tadpole Galaxy is also home to a supermassive black hole 
+an aquatic animal. The Tadpole Nebula is also home to a supermassive black hole 
 at its center, which is responsible for regulating the flow of gas and star 
-formation within the galaxy. 
+formation within the area. 
  
-The Spider Nebula, also known as NGC 6820-2, is a small dwarf spheroidal 
+The Spider Nebula, also known as IC 417, is a small dwarf spheroidal 
 satellite galaxy located about 1.4 million light-years away from Earth. With an 
 apparent size of approximately 30 arcminutes, this galaxy is difficult to spot 
 with the naked eye but can be observed through a telescope. The Spider Nebula is 
