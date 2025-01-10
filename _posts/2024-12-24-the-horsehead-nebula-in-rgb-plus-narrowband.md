@@ -1,5 +1,5 @@
 ---
-title: "The Horsehead and Flame Nebulas, in RGB plus Narrowband"
+title: "The Horsehead and Flame Nebulae, in RGB plus Narrowband"
 author: jamiesmith
 tags: [ghro, NINA, TargetScheduler, SHO, nebula, RGB]
 classes: wide
@@ -15,7 +15,7 @@ gallery:
 
 ---
 
-This is my late-2024 take on the Horsehead and Flame Nebulas in a fairly wide view from my 
+This is my late-2024 take on the Horsehead and Flame Nebulae in a fairly wide view from my 
 530mm f/5 refractor. This view, taken over ten different nights, is cropped but if you 
 click through you can see a bigger view along with processing details.
 
