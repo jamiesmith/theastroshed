@@ -124,6 +124,8 @@ narrowband version
 
 overview written by AI, using the `llama3.2:latest` model, with this prompt: 
 ```
-write a 250 word description of IC405, IC410, and IC417, including apparent size, distance from earth, and interesting details. Don't plagiarize
+write a 250 word description of IC405, IC410, and IC417, including 
+pparent size, distance from earth, and interesting details.
+Don't plagiarize
 ```
 
