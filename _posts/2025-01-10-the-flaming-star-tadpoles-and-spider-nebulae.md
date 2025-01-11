@@ -29,6 +29,7 @@ Tadpoles, and Spider Nebulae over a ten-day session in late 2024/early 2025.
 %}
 
 ## Region overview
+_(region overview is AI Generated, prompt and details at the end)_
 
 IC 405, IC 410, and IC 417 are three emission nebulae located in the constellation Auriga. While they share some similarities, each nebula has its unique characteristics.
 
