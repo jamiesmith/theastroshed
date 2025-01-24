@@ -10,10 +10,10 @@ header:
 gallery:
   - image_path: /assets/images/posts/the-flaming-star-tadpoles-and-spider-nebulae/Tadpoles_FlamingStar_Spider_NB_RGB_stars_2000px.jpg
     title: The Flaming Star, Tadpoles, and Spider Nebulae, Narrowband with RGB stars
-  - image_path: /assets/images/posts/the-flaming-star-tadpoles-and-spider-nebulae/Tadpoles_FlamingStar_Spider_RGB_2000px.jpg
-    title: The Flaming Star, Tadpoles, and Spider Nebulae in RGB
   - image_path: /assets/images/posts/the-flaming-star-tadpoles-and-spider-nebulae/Tadpoles_FlamingStar_Spider_NB_starless.jpg
     title: Narrowband Starless
+  - image_path: /assets/images/posts/the-flaming-star-tadpoles-and-spider-nebulae/Tadpoles_FlamingStar_Spider_RGB_2000px.jpg
+    title: The Flaming Star, Tadpoles, and Spider Nebulae in RGB
   - image_path: /assets/images/posts/the-flaming-star-tadpoles-and-spider-nebulae/Tadpoles_FlamingStar_Spider_RGB_starless.jpg
     title: RGB Starless
 ---
@@ -24,9 +24,15 @@ Tadpoles, and Spider Nebulae over a ten-day session in late 2024/early 2025.
 <!--more-->
 
 {%
-  include figure image_path="/assets/images/posts/the-flaming-star-tadpoles-and-spider-nebulae/Tadpoles_FlamingStar_Spider_NB_RGB_stars_2000px.jpg"
-  caption="Lots of red dust in there"
+    include image_comparison
+    right_image_url="/assets/images/posts/the-flaming-star-tadpoles-and-spider-nebulae/Tadpoles_FlamingStar_Spider_NB_RGB_stars_2000px.jpg"
+    left_image_url="/assets/images/posts/the-flaming-star-tadpoles-and-spider-nebulae/Tadpoles_FlamingStar_Spider_NB_starless.jpg"
+    left_image_description="SHO with RGB Stars"
+    right_image_description="SHO Starless"
+    use_width="1000"
+    use_height="661"
 %}
+
 
 ## Region overview
 _(region overview is AI Generated, prompt and details at the end)_
@@ -40,6 +46,7 @@ IC 410 (AKA the Tadpoles Nebula), on the other hand, is a large molecular cloud 
 The Spoder Nebula, IC 417 is also an emission nebula, located around 20,000 light-years from Earth. It appears as a small cloud with bright pinkish-red hues and dark lanes of gas and dust stretching about 2 degrees across. The nebula's striking appearance is due to its high concentration of ionized gas and intense radiation from nearby hot stars.
 
 All three nebulae are popular targets for amateur astronomers and astrophotographers, offering a glimpse into the dynamic process of star formation and the explosive power of supernovae.
+
 
 ## Acquisition Details
 - **Mount**: Astro-Physics Mach2GTO
@@ -125,7 +132,7 @@ narrowband version
 overview written by AI, using the `llama3.2:latest` model, with this prompt: 
 ```
 write a 250 word description of IC405, IC410, and IC417, including 
-pparent size, distance from earth, and interesting details.
+apparent size, distance from earth, and interesting details.
 Don't plagiarize
 ```
 

@@ -76,9 +76,20 @@ then folded the Sii into that combined image as red via the ImageBlend script.
 
 Finally, I used a PixelMath script to sprinkle the RGB stars back in.
 
+{%
+    include image_comparison
+    right_image_url="/assets/images/posts/the-horsehead-nebula-in-rgb-plus-narrowband/Horsehead_Nebula_RGB_Plus_NB_2000px.jpg"
+    right_image_description="Without Stars"
+
+    left_image_url="/assets/images/posts/the-horsehead-nebula-in-rgb-plus-narrowband/Horsehead_Nebula_RGB_Plus_NB_starless_2000px.jpg"
+    left_image_description="With Stars"
+
+    use_width="1000"
+    use_height="1200"
+%}
+
+
 {% include gallery id="gallery" caption="Click an image to see it bigger with some acquisition info" %}
 
 ### Image details on Astrobin
 {% include astrobin_remote astrobin_id="k3txzx" name="Horsehead and Flame Nebulas"%}
-
-
