@@ -43,7 +43,7 @@ IC 405, the Flaming Star Nebula is a small, irregular nebula with wispy tendrils
 
 IC 410 (AKA the Tadpoles Nebula), on the other hand, is a large molecular cloud with bright blue-green hues and dark lanes of interstellar gas and dust stretching about 30 arcminutes across. At approximately 20,000 light-years away, IC 410 harbors numerous young stars and protostars, making it an ideal target for studying star formation.
 
-The Spoder Nebula, IC 417 is also an emission nebula, located around 20,000 light-years from Earth. It appears as a small cloud with bright pinkish-red hues and dark lanes of gas and dust stretching about 2 degrees across. The nebula's striking appearance is due to its high concentration of ionized gas and intense radiation from nearby hot stars.
+The Spider Nebula, IC 417 is also an emission nebula, located around 20,000 light-years from Earth. It appears as a small cloud with bright pinkish-red hues and dark lanes of gas and dust stretching about 2 degrees across. The nebula's striking appearance is due to its high concentration of ionized gas and intense radiation from nearby hot stars.
 
 All three nebulae are popular targets for amateur astronomers and astrophotographers, offering a glimpse into the dynamic process of star formation and the explosive power of supernovae.
 
