@@ -1,7 +1,7 @@
 ---
 title: "The Flaming Star, Tadpoles, and Spider Nebulae"
 author: jamiesmith
-tags: []
+tags: [ghro, NINA, TargetScheduler, nebula]
 classes: wide
 
 header:
@@ -84,7 +84,7 @@ The processing included (see the updated processing icons [here](https://github.
 - BlurXTerminator (full)
 - NoiseXTerminator
 - StarXTerminator
-- Stretched the stars via SetiAstro's "Star Stretch" ()
+- Stretched the stars via SetiAstro's "Star Stretch"
 - GHS and a bit of curves to stretch the starless
   - several iterations with masks to get rid of some leftover star halos
 
