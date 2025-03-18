@@ -1,5 +1,5 @@
 ---
-title: "M81 and M82 in RGB blended with narrowband continuum"
+title: "M81 and M82 in RGB blended with narrowband subtracted continuum"
 author: jamiesmith
 tags: [ghro, NINA, TargetScheduler, galaxy, north]
 classes: wide
@@ -9,7 +9,7 @@ header:
 
 gallery:
   - image_path: /assets/images/posts/m81-and-m82-in-rgb-blended-with-narrowband-continuum/m81_m82_RGB_plus_continuum_2000px.jpg
-    title: M81 and M82 in RGB blended with narrowband continuum
+    title: M81 and M82 in RGB blended with narrowband subtracted continuum
 
 ---
 
