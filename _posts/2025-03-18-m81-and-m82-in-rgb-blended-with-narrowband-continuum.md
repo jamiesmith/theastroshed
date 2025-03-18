@@ -13,7 +13,7 @@ gallery:
 
 ---
 
-This is a quick post on the M81/M82 region, also known as Bode's Galaxy and the Cigar Galaxy, respectively.
+This is a quick post on the M81/M82 region, also known as Bode's and Cigar Galaxies, respectively.
 
 <!--more-->
 
@@ -28,7 +28,7 @@ I preprocessed, combined, and stretched RGB, then preprocessed the NB frames. I 
 
 I then used the CombineRGBAndNarrowband script to add the SOO continuum to the RGB, then added the Ha continuum, also as red. There were MANY iterations of stretching, curves, and masks (the GAME "brightness mask" was __extremely__ helpful).
 
-Let me know if more detailed information on the processing flow would be helpful.
+And, finally, I stretched the starless Lum and applied it via LRGBCombination
 
 If I had to do it over I wouldn't have spent so much time on the Sii and Oiii, and instead focused on more Ha and RGB
 
