@@ -52,7 +52,7 @@ The processing included (see the processing icons [here](https://github.com/jami
 - BlurX Full
 - NoiseX
 - StarX
-- Stretched the stars via SetiAstro's "Star Stretch" ()
+- Stretched the stars via SetiAstro's "Star Stretch"
 - GHS and a bit of curves to stretch the starless
 
 ### Narrowband Filters
