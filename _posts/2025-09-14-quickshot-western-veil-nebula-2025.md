@@ -67,7 +67,7 @@ The processing included (see the processing icons [here](https://github.com/jami
 {%
     include image_comparison
     left_image_url="/assets/images/posts/quickshot-western-veil-nebula-2025/WesternVeilNebula_2000px.jpg"
-    left_image_description="SHO with RGB stars"
+    left_image_description="RGB"
     right_image_url="/assets/images/posts/quickshot-western-veil-nebula-2025/WesternVeilNebula_starless_2000px.jpg"
     right_image_description="Starless"
     use_width="1010"
@@ -75,4 +75,4 @@ The processing included (see the processing icons [here](https://github.com/jami
 %}
 
 ### Image details on Astrobin
-{% include astrobin_remote astrobin_id="2kd0z2" name="Western Veil Nebula"%}
+{% include astrobin_remote astrobin_id="2kd0z2" name="Western Veil Nebula" %}
