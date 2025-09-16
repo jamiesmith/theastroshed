@@ -26,9 +26,9 @@ Tadpoles, and Spider Nebulae over a ten-day session in late 2024/early 2025.
 {%
     include image_comparison
     left_image_url="/assets/images/posts/the-flaming-star-tadpoles-and-spider-nebulae/Tadpoles_FlamingStar_Spider_NB_RGB_stars_2000px.jpg"
-    left_image_description="RGB"
+    left_image_description="SHO with RGB stars"
     right_image_url="/assets/images/posts/the-flaming-star-tadpoles-and-spider-nebulae/Tadpoles_FlamingStar_Spider_RGB_2000px.jpg"
-    right_image_description="SHO with RGB stars"
+    right_image_description="RGB"
     use_width="1000"
     use_height="661"
 %}
