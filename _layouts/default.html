@@ -37,6 +37,13 @@
     </div>
 
     {% include scripts.html %}
-
+    
+    <script src="/assets/js/before-after.js"></script>
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+	  initComparisons(); // safe to call once per page
+      });
+    </script>
+    
   </body>
 </html>

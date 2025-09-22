@@ -1,109 +1,82 @@
-// From https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_image_compare
-//
-function initComparisons()
-{
-    var x, i;
-    /*find all elements with an "overlay" class:*/
-    x = document.getElementsByClassName("img-comp-overlay");
-    for (i = 0; i < x.length; i++) 
-    {
-        // once for each "overlay" element:
-        // pass the "overlay" element as a parameter when executing the compareImages function
-        //
-        compareImages(x[i]);
-    }
-    
-    function compareImages(img) 
-    {        
-        var slider, img, clicked = 0, w, h;
-        /*get the width and height of the img element*/
-        w = img.offsetWidth;
-        h = img.offsetHeight;
-        console.log("W: ["+ w + "] H [" + h + "]");
-        /*set the width of the img element to 50%:*/
-        img.style.width = (w / 2) + "px";
+// /assets/js/before-after.js
+function initComparisons() {
+  const containers = document.querySelectorAll(".img-comp-container");
+  containers.forEach(setupComparison);
+}
 
-        /*create slider:*/
-        slider = document.createElement("DIV");
-        slider.setAttribute("class", "img-comp-slider");
+function setupComparison(container) {
+  if (!container || container.dataset.compInitialized === "1") return;
+  container.dataset.compInitialized = "1";
 
-        /*insert slider*/
-        img.parentElement.insertBefore(slider, img);
+  const overlay = container.querySelector(".img-comp-img.img-comp-overlay");
+  if (!overlay) return; // nothing to do
 
-        /*position the slider in the middle:*/
-        slider.style.top = (h / 2) - (slider.offsetHeight / 2) + "px";
-        slider.style.left = (w / 2) - (slider.offsetWidth / 2) + "px";
+  // Make sure the overlay sits on top of the base image
+  overlay.style.position = "absolute";
+  overlay.style.top = "0";
+  overlay.style.left = "0";
+  overlay.style.height = "100%";
 
-        /*execute a function when the mouse button is pressed:*/
-        slider.addEventListener("mousedown", slideReady);
+  // Base dimensions from the container (not the overlay)
+  const w = container.clientWidth;
+  const h = container.clientHeight;
 
-        /*and another function when the mouse button is released:*/
-        window.addEventListener("mouseup", slideFinish);
-    
-        /*or touched (for touch screens:*/
-        slider.addEventListener("touchstart", slideReady);
+  // Default starting position = 50%
+  setOverlayWidth(w / 2);
 
-        /*and released (for touch screens:*/
-        window.addEventListener("touchend", slideFinish);
+  // Create the slider handle
+  const slider = document.createElement("div");
+  slider.className = "img-comp-slider";
+  container.appendChild(slider);
 
-        function slideReady(e) 
-        {
-            /*prevent any other actions that may occur when moving over the image:*/
-            e.preventDefault();
-            /*the slider is now clicked and ready to move:*/
-            clicked = 1;
-            /*execute a function when the slider is moved:*/
-            window.addEventListener("mousemove", slideMove);
-            window.addEventListener("touchmove", slideMove);
-        }
+  // Position the slider in the middle
+  positionSlider(w / 2);
 
-        function slideFinish() 
-        {
-            /*the slider is no longer clicked:*/
-            clicked = 0;
-        }
-        function slideMove(e) 
-        {
-            var pos;
-            /*if the slider is no longer clicked, exit this function:*/
-            if (clicked == 0) return false;
+  // Pointer handling (mouse + touch unified)
+  let dragging = false;
 
-            /*get the cursor's x position:*/
-            pos = getCursorPos(e)
+  slider.addEventListener("pointerdown", (e) => {
+    e.preventDefault();
+    dragging = true;
+    slider.setPointerCapture(e.pointerId);
+  });
 
-            /*prevent the slider from being positioned outside the image:*/
+  slider.addEventListener("pointerup", (e) => {
+    dragging = false;
+    slider.releasePointerCapture(e.pointerId);
+  });
 
-            if (pos < 0) pos = 0;
+  slider.addEventListener("pointercancel", () => (dragging = false));
 
-            if (pos > w) pos = w;
+  // Move only within THIS container
+  container.addEventListener("pointermove", (e) => {
+    if (!dragging) return;
+    const rect = container.getBoundingClientRect();
+    let x = e.clientX - rect.left; // x relative to container
+    if (x < 0) x = 0;
+    if (x > w) x = w;
+    setOverlayWidth(x);
+    positionSlider(x);
+  });
 
-            /*execute a function that will resize the overlay image according to the cursor:*/
-            slide(pos);
-        }
-        function getCursorPos(e) 
-        {
-            var a, x = 0;
-            e = (e.changedTouches) ? e.changedTouches[0] : e;
-        
-            /*get the x positions of the image:*/
-            a = img.getBoundingClientRect();
-        
-            /*calculate the cursor's x coordinate, relative to the image:*/
-            x = e.pageX - a.left;
-        
-            /*consider any page scrolling:*/
-            x = x - window.pageXOffset;
-            return x;
-        }
-        
-        function slide(x) 
-        {
-            console.log("HERE!");
-            
-            /*resize the image:*/
-            img.style.width = x + "px";
-            /*position the slider:*/
-            slider.style.left = img.offsetWidth - (slider.offsetWidth / 2) + "px";
-        }
+  // Also allow clicking anywhere on the container to jump slider
+  container.addEventListener("pointerdown", (e) => {
+    if (e.target === slider) return; // already handled
+    const rect = container.getBoundingClientRect();
+    let x = e.clientX - rect.left;
+    if (x < 0) x = 0;
+    if (x > w) x = w;
+    setOverlayWidth(x);
+    positionSlider(x);
+  });
+
+  function setOverlayWidth(x) {
+    overlay.style.width = x + "px";
+  }
+
+  function positionSlider(x) {
+    // center the handle vertically, position horizontally at the split
+    slider.style.top = (h / 2 - slider.offsetHeight / 2) + "px";
+    slider.style.left = (x - slider.offsetWidth / 2) + "px";
   }
 }
