@@ -1,7 +1,7 @@
 ---
 title: "Butch's time with the CfA2 Great Wall of Galaxies observed"
 author: butch_phaneuf
-tags: []
+tags: [sketches]
 classes: wide
 
 header:
@@ -29,7 +29,7 @@ Given the forum’s file size limitations, I’ve hyperlinked the sketch image f
 
 I’ll start in the west.
 
-### Abell 1367, the Leo Cluster:
+## Abell 1367, the Leo Cluster:
 
 Field = 21’
 
@@ -57,7 +57,7 @@ Averted vision showed a handful of other fuzzies surrounding **NGC ****38****42*
 
 I do remember being thrilled at seeing “so many” galaxies in one field, and this observation was certainly a step along the path to seeing fainter and more distant targets.  I did not realize at the time that I was looking at part of the Great Wall.  Next visit I will be more prepared and hopefully more successful.
 
-### Abell 1656/The Coma Cluster in Coma Berenices
+## Abell 1656/The Coma Cluster in Coma Berenices
 
 Field = 30’
 
@@ -87,7 +87,7 @@ Had to take a mental break after this one.  But I was really stoked to look at t
 
 The identification process took some time.  That was accomplished using photos, Pretty Deep Maps and The Webb Society Deep Sky Observer’s Handbook, vol. 5 Clusters of Galaxies.  I won’t say I’m 100% certain of all of them, but I think the cross-checking helped narrow things down pretty well.  (I recently went back and checked the labels against Aladin Lite and CzSky, making a few corrections.) 
 
-### Abell 2197 in Hercules
+## Abell 2197 in Hercules
 
 Field = 30’
 {%
@@ -148,7 +148,7 @@ Starting with the southernmost galaxy of the group of 5, **PGC58266**/15.4 prese
 
 More hurried than I would have liked, I still consider this one a successful observation for purposes of the CfA2 project, including a fair representation of Abell 2197’s galaxies even if some were left out that might have been seen with more time spent hunting them down and lingering enough for the dim glows to show themselves.  It was also satisfying in that not too many members lie outside the group boundaries as is the case with some of the other Abell groups.  
 
-#### Addendum from 8/29/2025
+### Addendum from 8/29/2025
 
 An unexpected clear night with Hercules still near zenith, so the Charlotte and Lancaster light domes weren’t a factor until later.  The 38% illuminated moon didn’t set until 11:04PM, but it was behind the trees a half hour before that, and it made a surprising difference.  I was able to go back to pick up a couple galaxies I felt I should have seen and get better confirmation on a few others.  Here are the additional observations:
 
@@ -158,7 +158,7 @@ An unexpected clear night with Hercules still near zenith, so the Charlotte and 
 
 **PGC 58319**/15.6 was much easier to pick out as the peak of an isosceles triangle with a pair of bright stars 5’ west.  Visible in AV around 60%, it did show a slightly brighter area in the center of a 0.4’ halo.  
 
-### Abell 2199, central and southwest field of view
+## Abell 2199, central and southwest field of view
 
 Field = 30’
 
@@ -216,7 +216,7 @@ Two galaxies further north, bracing one of the helpful star pairs were **PGCs 58
 
 Time for the session was running out, and there were a number of galaxies I had to let go, including at least 3 in the center of the FOV and a handful to the west for which I was not prepared due to the miscalculation of the field.  
 
-#### Addendum from 8/29/2025
+### Addendum from 8/29/2025
 
 Given the misses of the unexpected session mentioned above, another unlooked-for clear night enabled me to make up many of the oversights (and a couple in 2197).  It felt very good to have the chance to do that as it was nagging me and I didn’t want to wait until next summer.  Here are the additions:
 
@@ -276,7 +276,7 @@ It was disappointing to have the clouds move in much earlier than expected.  The
 
 I hated the tyranny of the approaching clouds not allowing a more extensive look at the galaxies.  So even though I’m confident of these sightings, I didn’t get the “ironclad” confirmation I usually require of myself.  That said, I did the sketch anyway to preserve the experience and check against a future observation.  The last time I had something to sketch was over a month ago.  
 
-#### Addendum from 7/26/2025:
+### Addendum from 7/26/2025:
 
 Only 5 visitors on this star party night, giving me time to revisit and confirm the previous sightings.  Feel much better about it now.  T was much improved, hovering between 9,600 -10,000 ADU, as opposed to 8,200 and dropping, but seeing was a bit worse at 2.5-3.0 a/sec.  SQM was consistent with the last several sessions at 21.4.   
 
@@ -288,7 +288,7 @@ Finally, after some dedicated averted looking, **PGC 58253**/16.9 revealed itsel
 
 Still no joy on the “third core” in 6166, but a very satisfying observation.  Make that 10 galaxies in VV 364.  I think that's the most galaxies I've seen in such a small field of view (7.8' @762x).  Now to amend the sketch...
 
-### Abell 2151 (Western half) in Hercules
+## Abell 2151 (Western half) in Hercules
 
 Field = 21’
 
@@ -328,7 +328,7 @@ The last group seen consists of 3 overlapping galaxies that make up **Arp 272** 
 
 Also hoping for better seeing at a future observation to better discern the details of the Arp objects and other overlapping members.  Wouldn’t mind finding more members as well.  (Did not yet know to use the 21mm for the field of view, but the 8mm for detecting and observing individual galaxies)
 
-#### Addendum from 9/13/2025:
+### Addendum from 9/13/2025:
 
 This was the last shot at Abell 2151 for the year, and chance to update last year’s observation.  It was fully dark at 8:56 and a half hour later the Lancaster SC light dome precluded any further viewing in this part of Hercules.  The first 30 minutes, however, enabled me to see some details and galaxies not seen last year.   The 8mm TV Ethos @ 381x and 2x TV PowerMate @ 762x were used to observe individual galaxies.
 
@@ -342,7 +342,7 @@ Further south for another 15’ **PGC ****84715**/16.0 was seen as the twin of 1
 
 20+’ north of the L-star arrangement was **PGC ****84714**/16.2 – A round featureless halo of perhaps 1.0’.  No detail was seen given its low SB as a spiral and the fact that the cluster was setting into the western light dome. 
 
-### Abell 2151, eastern portion
+## Abell 2151, eastern portion
 
 Field = 21’
 
@@ -385,7 +385,7 @@ Near the western edge of the FOV was **Arp 272 ****- ****NGC 6050**/15.4** **and
 
 Much like the observation of the western half of the cluster, a bit disappointing in that I had hoped to see more members as well as more detail.  But I am happy to have seen what I did given the less-than-ideal conditions.  Enough of the cluster was seen to consider it observed, for now, at least.   Abell 2151 very much needs to be revisited not only to pull in more member galaxies, and hopefully more details, but also to make sure of placement.  
 
-### Abell 2147 galaxy cluster in Hercules (central portion)
+## Abell 2147 galaxy cluster in Hercules (central portion)
 
 Field = 30’
 
@@ -439,7 +439,7 @@ The final galaxies seen were in the central west-northwestern quadrant of the FO
 
 My viewing session began before true dark at 10:04 PM, taking down the starfield as it came into view.  I had 1.25 hours with which to work and the central FOV of Abell 2147 took all of it.  Even then it felt overly-brief as many members of the group took much of that time just to puff into view.  I know time is limited before Hercules disappears, but I don’t want to rush this.  To me it’s worth spending the time to snag as many galaxies in each FOV as I can, knowing that I’m not seeing a tithe of what makes up this mammoth structure.   
 
-### Galaxies in Hercules Supercluster between Abell 2152 and 2147
+## Galaxies in Hercules Supercluster between Abell 2152 and 2147
 
 Field = 30’
 
@@ -478,7 +478,7 @@ The last two galaxies seen in the field were back to the east of this pair of ga
 
 This area seemed to be a lot more work for not as many galaxies.  Maybe I was just tired.  That in itself was a new experience.  I’m never ready to stop, and I didn’t after this, going on to take down the star fields for future re-observations (hopefully) of Abells 2197 and 2199.  By then the moon was on the rise and I was done.   Seeing the two Vorontsov-Velyaminov pairs was a treat, though, as was making the bridge between the last two Abell groups in the Great Wall.  Nearly complete!   
 
-### Abell 2152 west - galaxy cluster in Hercules
+## Abell 2152 west - galaxy cluster in Hercules
 
 Field = 30’
 
@@ -529,7 +529,7 @@ Just sneaking into the field of view southeast of the triangle of stars is the w
 Looking back at the labelled drawing strongly reinforces the idea of CfA2 as a filament wandering across the night sky.  Fantastic. 
 
 
-### Abell 2152 east - galaxy cluster in Hercules
+## Abell 2152 east - galaxy cluster in Hercules
 Field = 30’
 
 {%
